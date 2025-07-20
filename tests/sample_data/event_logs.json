@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "eventdescription": "BFD session down",
+      "entry_time": "2024-12-01T10:23:00Z"
+    },
+    {
+      "eventdescription": "Control connection established",
+      "entry_time": "2024-12-01T11:45:00Z"
+    }
+  ]
+}

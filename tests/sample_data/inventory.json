@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "host-name": "vEdge-01",
+      "device-type": "vedge",
+      "reachability": "reachable"
+    },
+    {
+      "host-name": "vSmart-01",
+      "device-type": "vsmart",
+      "reachability": "reachable"
+    }
+  ]
+}

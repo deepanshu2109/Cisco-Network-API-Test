@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "if-name": "ge0/0",
+      "if-admin-status": "up",
+      "if-oper-status": "up"
+    },
+    {
+      "if-name": "ge0/1",
+      "if-admin-status": "down",
+      "if-oper-status": "down"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "templateName": "Branch-vEdge",
+      "templateType": "feature"
+    },
+    {
+      "templateName": "DC-vSmart",
+      "templateType": "device"
+    }
+  ]
+}
